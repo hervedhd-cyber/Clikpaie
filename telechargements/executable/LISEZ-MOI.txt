@@ -1,0 +1,2 @@
+Deposez ici l'installateur de ClikPaie RDC sous le nom exact : ClikPaieRDC-Setup.exe
+Vous pouvez supprimer ce fichier LISEZ-MOI.txt apres le depot.
