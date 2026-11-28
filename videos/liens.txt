@@ -1,7 +1,1 @@
-# LIENS DES VIDEOS YOUTUBE DU SITE CLIKPAIE RDC
-# Collez un lien YouTube par ligne (exemple : https://youtu.be/xxxxxxxxxxx).
-# Les lignes qui commencent par # sont ignorees.
-# Une seule video : elle tourne en boucle.
-# Plusieurs videos : elles se lisent l'une apres l'autre, en boucle.
-# Aucun lien : la zone video est masquee.
-
+https://www.youtube.com/watch?v=K00pfdWqVeU
